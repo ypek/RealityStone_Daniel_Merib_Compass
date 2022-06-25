@@ -1,7 +1,6 @@
 <h1 align="center">Koans Compass Challange By:👋, Daniel Merib</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ypek&label=Profile%20views&color=0e75b6&style=flat" alt="ypek" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ypek" alt="ypek" /></a> </p>
 
@@ -41,8 +40,9 @@
 Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
 ## 📝 licença
+<a href="https://compass.uol/" target="blank"><img align="center" src="https://github.com/ypek/teste-/blob/main/uolo%20logo.png" alt="compass" height="40" width="100" /></a>Copyright Compass Uol © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 
-Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
+
 
 ***
 _This README was made with ❤️ by Daniel Merib_
