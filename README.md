@@ -22,13 +22,6 @@
 - ruby > 5.5.0
 - cucumber > 9.3.0
 ```
-
-## Run tests
-
-```sh
-ruby path_to_enlightenment.rb
-```
-
 ## Author
 
 👤 **Daniel Merib**
