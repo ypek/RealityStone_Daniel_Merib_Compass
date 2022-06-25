@@ -48,16 +48,16 @@ describe('calculadora') do
 
             #usando metodo de divisao
     it("Deve dividir dois inteiros positivos")do #testa a divisao de dois inteiros positivos
-        expect(calculadora.divisao(4,5)).to eq 0.8
+        expect(calculadora.divisao(4,5)).to eq 0
     end
     it("Deve dividir um numero qualquer com 0")do #testa a divisao de um inteiro com 0
-        expect(calculadora.divisao(9,0)).to eq "Não é possível dividir por 0!"
+        expect(calculadora.divisao(9,0)).to eq "Não é possível dividir por 0!" ######Duvida do que colocar aqui!!!#####
     end
     it("Deve dividir numeros negativos")do #testa a divisao de dois numeros negativos
-        expect(calculadora.divisao(-4,-5)).to eq 0.2
+        expect(calculadora.divisao(-10,-2)).to eq 5
     end
     it('Deve dividir um numero negativo e outro positivo')do #testa a divisao de um numero negativo e outro positivo
-        expect(calculadora.divisao(-4,5)).to eq -0.8
+        expect(calculadora.divisao(-100,2)).to eq -50
     end
 
             #usando metodo de raiz
@@ -65,7 +65,7 @@ describe('calculadora') do
         expect(calculadora.raiz(9)).to eq 3
     end
     it("Deve calcular a raiz quadrada de um numero negativo")do #testa a raiz quadrada de um numero negativo
-        expect(calculadora.raiz(-9)).to eq "Não é possível calcular a raiz quadrada de um número negativo!"
+        expect(calculadora.raiz(-9)).to eq "Não é possível calcular a raiz quadrada de um número negativo!" ######Duvida do que colocar aqui!!!#####
     end
     it("Deve calcular a raiz quadrada de um numero qualquer")do #testa a raiz quadrada de um numero qualquer
         expect(calculadora.raiz(4)).to eq 2
@@ -76,7 +76,7 @@ describe('calculadora') do
         expect(calculadora.potencia(9,2)).to eq 81
     end
     it("Deve calcular a potencia de um numero negativo")do #testa a potencia de um numero negativo
-        expect(calculadora.potencia(-9,2)).to eq "Não é possível calcular a potencia de um número negativo!"
+        expect(calculadora.potencia(-9,2)).to eq 81
     end
     it("Deve calcular a potencia de um numero qualquer")do #testa a potencia de um numero qualquer
         expect(calculadora.potencia(4,2)).to eq 16
