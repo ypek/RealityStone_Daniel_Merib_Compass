@@ -24,6 +24,6 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ypek&show_icons=true&locale=en" alt="ypek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ypek&show_icons=true&locale=en" alt="ypek" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ypek&" alt="ypek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ypek&" alt="ypek" /></p>
