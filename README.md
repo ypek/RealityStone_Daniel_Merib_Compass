@@ -20,7 +20,13 @@
 
 ```sh
 - ruby > 5.5.0
-- cucumber > 9.3.0
+- rspec > 3.4.0
+```
+## install
+
+```sh
+- gem install rspec -v 3.4.0
+- gem 'rspec', '~> 3.4'
 ```
 ## Author
 
