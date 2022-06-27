@@ -37,7 +37,7 @@ make it work correctly.
 - about_true_and_false.rb
 
 
-## Installing Ruby
+== Installing Ruby
 
 If you do not have Ruby setup, please visit http://ruby-lang.org/en/downloads/ for
 operating specific instructions.  In order to run the koans you need +ruby+ and
