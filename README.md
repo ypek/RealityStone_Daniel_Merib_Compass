@@ -29,10 +29,15 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-## how to run the test
+## how to run Ruby_Koans_challange
 
 ```sh
 - ruby about_"name".rb
+```
+## how to run Calculator Sprint Challange
+
+```sh
+- rspec "Tdd's\specs\calculadora_spec.rb"
 ```
 
 ## Author
