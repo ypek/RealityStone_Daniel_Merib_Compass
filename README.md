@@ -5,7 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ypek" alt="ypek" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/ypekgamer" target="blank"><img src="https://img.shields.io/twitter/follow/ypekgamer?logo=twitter&style=for-the-badge" alt="ypekgamer" /></a> </p>
 
 <h3 align="center">Conecte Comigo:</h3>
 <p align="center">
