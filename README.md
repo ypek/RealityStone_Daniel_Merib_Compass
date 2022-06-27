@@ -28,6 +28,13 @@
 - gem install rspec -v 3.4.0
 - gem 'rspec', '~> 3.4'
 ```
+
+## how to execute
+
+```sh
+- ruby about_"name".rb
+```
+
 ## Author
 
 👤 **Daniel Merib**
