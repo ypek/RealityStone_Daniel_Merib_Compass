@@ -38,7 +38,7 @@
 - ruby about_"name".rb
 ```
 ## How to run Calculator Sprint Challange
- como Executar o aqruivo do Challange final da Sprint Compass
+ Como Executar o aqruivo do Challange final da Sprint Compass
 
 ```sh
 - rspec "Tdd's\specs\calculadora_spec.rb"
