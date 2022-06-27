@@ -1,4 +1,4 @@
-<h1 align="center">Koans Compass Challange By:👋, Daniel Merib</h1>
+<h1 align="center">Compass Challange By: Daniel Merib👋</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
 
@@ -66,5 +66,9 @@ Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 
+## 📰 Credits
+* Ruby Koans [Challange](http://rubykoans.com/).<br />
+* Ruby Documentation [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/).<br />
+* Git Documentation [Documentação Git](https://git-scm.com/doc).<br />
 ***
 _This README was made with ❤️ by Daniel Merib_
