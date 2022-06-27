@@ -20,13 +20,13 @@
 ```sh
 - ruby > 5.5.0
 - rspec > 3.4.0
+- git 2.36.1
 ```
 ## install
 
 ```sh
 - gem install rspec -v 3.4.0
 - gem 'rspec', '~> 3.4'
-- git 2.36.1
 ```
 ## Author
 
