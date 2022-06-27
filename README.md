@@ -29,7 +29,7 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-## how to execute
+## how to run the test
 
 ```sh
 - ruby about_"name".rb
