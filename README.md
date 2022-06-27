@@ -20,7 +20,7 @@
 ```sh
 - ruby > 5.5.0
 - rspec > 3.4.0
-- git 2.36.1
+- git > 2.36.1
 ```
 ## install
 
