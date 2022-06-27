@@ -65,7 +65,7 @@ Deixe uma ⭐️ neste projeto para me ajudar 😁!
 ## 📝 License
 
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
-Copyright © [Compass](https://compass.uol/).<br /> 
+Copyright © 2022 [Compass](https://compass.uol/).<br /> 
 
 ## 📰 Credits
 * Ruby Koans [Challange](http://rubykoans.com/).<br />
