@@ -48,11 +48,11 @@
 * Github: [@Ypek](https://github.com/Ypek)
 * LinkedIn: [@Daniel Merib](https://www.linkedin.com/in/daniel-merib-68a274133/)
 
-## Mostre Seu Apoio
+## Give Your Support
 
 Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
-## 📝 licença
+## 📝 license
 
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 
