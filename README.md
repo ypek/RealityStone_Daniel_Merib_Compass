@@ -62,7 +62,7 @@
 
 Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
-## 📝 license
+## 📝 License
 
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 Copyright © [Compass](https://compass.uol/).<br /> 
