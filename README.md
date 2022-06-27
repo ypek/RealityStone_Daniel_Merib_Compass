@@ -71,5 +71,6 @@ Copyright © 2022 [Compass](https://compass.uol/).<br />
 * Ruby Koans [Challange](http://rubykoans.com/).<br />
 * Ruby Documentation [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/).<br />
 * Git Documentation [Documentação Git](https://git-scm.com/doc).<br />
+* Rspec Documentation [Documentação Rspec](https://rspec.info/documentation/).<br />
 ***
 _This README was made with ❤️ by Daniel Merib_
