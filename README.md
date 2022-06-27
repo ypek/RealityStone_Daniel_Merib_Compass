@@ -1,7 +1,7 @@
 <h1 align="center">Koans Compass Challange By:👋, Daniel Merib</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ypek&label=Profile%20views&color=0e75b6&style=flat" alt="ypek" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ypek" alt="ypek" /></a> </p>
 
