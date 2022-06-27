@@ -23,7 +23,7 @@
 - rspec > 3.4.0
 - git > 2.36.1
 ```
-## install
+## Install
  Dependencias Necessárias para o projeto 
 
 ```sh
@@ -31,13 +31,13 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-## how to run Ruby_Koans_challange
+## How to run Ruby_Koans_challange
  Como executar os desafios do ruby koans
 
 ```sh
 - ruby about_"name".rb
 ```
-## how to run Calculator Sprint Challange
+## How to run Calculator Sprint Challange
  como Executar o aqruivo do Challange final da Sprint Compass
 
 ```sh
