@@ -15,7 +15,7 @@
 <h3 align="center">Linguagem e Ferramentas:</h3>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://img.icons8.com/color/96/000000/visual-studio--v1.png" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> </a> </p>
 
-## Prerequisites
+## 📑 Prerequisites 
  pré-requisitos
 
 ```sh
@@ -23,7 +23,7 @@
 - rspec > 3.4.0
 - git > 2.36.1
 ```
-## Install
+## 📥 Install 
  Dependencias Necessárias para o projeto 
 
 ```sh
@@ -31,26 +31,26 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-## How to run Ruby_Koans_challange
+## ✅ How to run Ruby_Koans_challange 
  Como executar os desafios do ruby koans
 
 ```sh
 - ruby about_"name".rb
 ```
-## How to run Calculator Sprint Challange
+## ✅ How to run Calculator Sprint Challange 
  Como Executar o aqruivo do Challange final da Sprint Compass
 
 ```sh
 - rspec "Tdd's\specs\calculadora_spec.rb"
 ```
-## Deployment
+## 🌱 Deployment 
  como realizar os PR's para atualização do projeto:
 ```sh
 - git checkout -b "main"
 - git commit -m "mensagem do commit"
 - git push origin main
 ```
-## Author
+## 👤 Author 
 
 👤 **Daniel Merib**
 
@@ -58,7 +58,7 @@
 * Github: [@Ypek](https://github.com/Ypek)
 * LinkedIn: [@Daniel Merib](https://www.linkedin.com/in/daniel-merib-68a274133/)
 
-## Give Your Support
+## ❤ Give Your Support 
 
 Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
