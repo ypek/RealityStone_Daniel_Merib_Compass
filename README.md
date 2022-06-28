@@ -1,4 +1,4 @@
-<h1 align="center">Koans Compass Challange By Daniel Merib👋</h1>
+<h1 align="center">Compass Challange By: Daniel Merib👋</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
 
@@ -13,34 +13,44 @@
 </p>
 
 <h3 align="center">Linguagem e Ferramentas:</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://img.icons8.com/color/96/000000/visual-studio--v1.png" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> </a> </p>
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://img.icons8.com/color/96/000000/visual-studio--v1.png" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> </a><a href="https://rspec.info/" target="_blank" rel="noreferrer"> <img src="https://github.com/ypek/teste-/blob/main/logo%20rspec.png" alt="rspec" width="40" height="40"/> </a> </p>
 
-## Prerequisites
+## 📑 Prerequisites 
+ Pré-requisitos
 
 ```sh
 - ruby > 5.5.0
 - rspec > 3.4.0
 - git > 2.36.1
 ```
-## install
+## 📥 Install 
+ Dependencias Necessárias para o projeto 
 
 ```sh
 - gem install rspec -v 3.4.0
 - gem 'rspec', '~> 3.4'
 ```
 
-## how to run Ruby_Koans_challange
+## ✅ How to run Ruby_Koans_challange 
+ Como executar os desafios do ruby koans
 
 ```sh
 - ruby about_"name".rb
 ```
-## how to run Calculator Sprint Challange
+## ✅ How to run Calculator Sprint Challange 
+ Como Executar o aqruivo do Challange final da Sprint Compass
 
 ```sh
 - rspec "Tdd's\specs\calculadora_spec.rb"
 ```
-
-## Author
+## 🌱 Deployment 
+ como realizar os PR's para atualização do projeto:
+```sh
+- git checkout -b "main"
+- git commit -m "mensagem do commit"
+- git push origin main
+```
+## 👤 Author 
 
 👤 **Daniel Merib**
 
@@ -48,13 +58,19 @@
 * Github: [@Ypek](https://github.com/Ypek)
 * LinkedIn: [@Daniel Merib](https://www.linkedin.com/in/daniel-merib-68a274133/)
 
-## Mostre Seu Apoio
+## ❤ Give Your Support 
 
 Deixe uma ⭐️ neste projeto para me ajudar 😁!
 
-## 📝 licença
+## 📝 License
 
 Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
+Copyright © 2022 [Compass](https://compass.uol/).<br /> 
 
+## 📰 Credits
+* Ruby Koans [Challange](http://rubykoans.com/).<br />
+* Ruby Documentation [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/).<br />
+* Git Documentation [Documentação Git](https://git-scm.com/doc).<br />
+* Rspec Documentation [Documentação Rspec](https://rspec.info/documentation/).<br />
 ***
 _This README was made with ❤️ by Daniel Merib_
