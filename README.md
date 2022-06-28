@@ -1,4 +1,4 @@
-<h1 align="center">Koans Compass Challange By:👋, Daniel Merib</h1>
+<h1 align="center">Koans Compass Challange By Daniel Merib👋</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
 
