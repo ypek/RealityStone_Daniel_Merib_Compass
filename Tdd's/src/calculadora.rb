@@ -4,7 +4,11 @@ class Calculadora
     end
 
     def subtracao(a,b) #metodo de subtracao
-    a - b
+    if(a < 0 && b < 0)
+        a + b
+    else
+        a - b
+    end
     end
 
     def multiplicacao(a,b) #metodo de multiplicacao
@@ -37,6 +41,42 @@ class Calculadora
 
     def tangente(a) #metodo de tangente
     Math.tan(a)
-    end 
+    end
+    
+    def fatorar(a) #metodo de fatoracao
+        if a == 0
+            return 1
+        end
+        fator = 1
+        for i in 1..a
+            fator = fator * i
+        end
+        return fator
+    end
+
+    def fibonacci(a) #metodo de fibonacci
+        if a == 0
+            return 0
+        end
+        if a == 1
+            return 1
+        end
+        return fibonacci(a-1) + fibonacci(a-2)
+    end
+
+    def primo(a) #metodo de primo
+        if a == 1
+            return false
+        end
+        if a == 2
+            return true
+        end
+        for i in 2..a-1
+            if a % i == 0
+                return false
+            end
+        end
+        return true
+    end
 
 end

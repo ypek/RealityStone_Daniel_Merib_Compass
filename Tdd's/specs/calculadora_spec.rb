@@ -26,7 +26,7 @@ describe('calculadora') do
         expect(calculadora.subtracao(9,0)).to eq 9
     end
     it("Deve subtrair numeros negativos")do #testa a subtracao de dois numeros negativos
-        expect(calculadora.subtracao(-4,-5)).to eq 1
+        expect(calculadora.subtracao(-4,-5)).to eq -9
     end
     it('Deve subtrair um numero negativo e outro positivo')do #testa a subtracao de um numero negativo e outro positivo
         expect(calculadora.subtracao(-4,5)).to eq -9
@@ -119,6 +119,17 @@ describe('calculadora') do
         expect(calculadora.tangente(45)).to eq 1.6197751905438615
     end
     ###################################################################################
+    it('deve fatorar um numero positivo')do #testa o fatorar de um numero positivo
+        expect(calculadora.fatorar(9)).to eq 362880
+    end
+    it('deve calcular fibonacci de um numero positivo')do #testa o fibonacci de um numero positivo
+        expect(calculadora.fibonacci(9)).to eq 34
+    end
+    it('deve calcular numero primo')do #testa o fibonacci de um numero negativo
+        expect(calculadora.primo(9)).to eq false
+    end
+
+
 end
 
 
