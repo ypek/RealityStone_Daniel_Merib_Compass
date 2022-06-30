@@ -4,7 +4,11 @@ class Calculadora
     end
 
     def subtracao(a,b) #metodo de subtracao
-    a - b
+        if(a < 0 && b < 0)
+            a + b
+        else
+            a - b
+        end
     end
 
     def multiplicacao(a,b) #metodo de multiplicacao
@@ -15,6 +19,7 @@ class Calculadora
     a / b
     rescue ZeroDivisionError
         "Não é possível dividir por 0!"
+
     end
 
     def raiz(a) #metodo de raiz
@@ -37,6 +42,10 @@ class Calculadora
 
     def tangente(a) #metodo de tangente
     Math.tan(a)
-    end 
+    end
+    
+    def esponencial(a) #metodo de esponencial
+    Math.exp(a)
+    end
 
 end
