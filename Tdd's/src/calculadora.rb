@@ -57,10 +57,10 @@ class Calculadora
         else
            return 1
         end
+    end
 
     def esponencial(a) #metodo de esponencial
     Math.exp(a)
-
     end
 
     def fatorial_recursivo(n)
@@ -118,4 +118,5 @@ class Calculadora
             return a
         end
     end
+
 end
