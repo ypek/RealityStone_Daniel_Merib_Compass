@@ -44,7 +44,7 @@ class Calculadora
     Math.tan(a)
     end
     
-<<<<<<< HEAD
+
     def logaritmo(a) #metodo de logaritmo
     Math.log(a,10).round(15)
     rescue Math::DomainError
@@ -57,10 +57,10 @@ class Calculadora
         else
            return 1
         end
-=======
+
     def esponencial(a) #metodo de esponencial
     Math.exp(a)
->>>>>>> a1207daf6a638043f41626a937967ab2fae16be5
+
     end
 
     def fatorial_recursivo(n)
