@@ -18,6 +18,7 @@ describe('calculadora') do
         expect(calculadora.soma(-4,5)).to eq 1
     end
 
+
             #usando metodo de subtracao
     it("Deve subtrair dois inteiros positivos")do #testa a subtracao de dois inteiros positivos
         expect(calculadora.subtracao(4,5)).to eq -1
@@ -49,13 +50,12 @@ describe('calculadora') do
             #usando metodo de divisao
     it("Deve dividir dois inteiros positivos")do #testa a divisao de dois inteiros positivos
         expect(calculadora.divisao(4,5)).to eq 0
-<<<<<<< HEAD
-    end    
+    end
+
     it("Deve dividir um numero qualquer com 0")do #testa a divisao de um inteiro com 0
         expect(calculadora.divisao(9,0)).to eq "Não é possível dividir por 0!" #ZeroDivisionError
     end
-=======
-    end
+
     it("Deve dividir um numero qualquer com 0")do #testa a divisao de um inteiro com 0
         expect(calculadora.divisao(9,0)).to eq "Não é possível dividir por 0!" #ZeroDivisionError
     end
@@ -65,7 +65,7 @@ describe('calculadora') do
     it('Deve dividir um numero negativo e outro positivo')do #testa a divisao de um numero negativo e outro positivo
         expect(calculadora.divisao(-4,5)).to eq -1
     end
->>>>>>> a1207daf6a638043f41626a937967ab2fae16be5
+
     it("Deve dividir numeros negativos")do #testa a divisao de dois numeros negativos
         expect(calculadora.divisao(-10,-2)).to eq 5
     end
@@ -98,10 +98,7 @@ describe('calculadora') do
      expect(calculadora.potencia(0,2)).to eq 0
     end
 
-<<<<<<< HEAD
-=======
-        ###################################################################################
->>>>>>> a1207daf6a638043f41626a937967ab2fae16be5
+
             #usando metodo seno coscendo e tangente
     it("Deve calcular o seno de um numero positivo")do #testa o seno de um numero positivo
         expect(calculadora.seno(90)).to eq 0.8939966636005579
@@ -131,7 +128,6 @@ describe('calculadora') do
         expect(calculadora.tangente(45)).to eq 1.6197751905438615
     end
     
-<<<<<<< HEAD
     #usando metodo de fatoracao
     it("Deve calcular a fatoracao de um numero positivo")do #testa a fatoracao de um numero positivo
         expect(calculadora.fatorial(9)).to eq 362880
@@ -263,10 +259,7 @@ describe('calculadora') do
         expect(calculadora.mediana(0,0)).to eq 0
     end
    
-
-
-=======
-        #Metodo de exponensiação
+     #Metodo de exponensiação
     
     it("Deve calcular a exponenciacao de um numero positivo")do #testa a exponenciacao de um numero positivo
         expect(calculadora.esponencial(9)).to eq 8103.083927575384
@@ -278,7 +271,6 @@ describe('calculadora') do
         expect(calculadora.esponencial(4)).to eq 54.598150033144236
     end
 
->>>>>>> a1207daf6a638043f41626a937967ab2fae16be5
 end
 
 
