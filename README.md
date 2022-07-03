@@ -1,4 +1,4 @@
-<h1 align="center">Compass Challange By: Daniel Merib👋</h1>
+<h1 align="center">Compass challenge By: Daniel Merib👋</h1>
 <h3 align="center">Repositório criado para envio de atividade respectivas a Ruby.</h3>
 
 
@@ -31,14 +31,14 @@
 - gem 'rspec', '~> 3.4'
 ```
 
-## ✅ How to run Ruby_Koans_challange 
+## ✅ How to run Ruby_Koans_challenge
  Como executar os desafios do ruby koans
 
 ```sh
 - ruby about_"name".rb
 ```
-## ✅ How to run Calculator Sprint Challange 
- Como Executar o aqruivo do Challange final da Sprint Compass
+## ✅ How to run Calculator Sprint challenge 
+ Como Executar o aqruivo do challenge final da Sprint Compass
 
 ```sh
 - rspec "Tdd's\specs\calculadora_spec.rb"
@@ -68,7 +68,7 @@ Copyright © 2022 [Daniel Merib](https://github.com/Ypek).<br />
 Copyright © 2022 [Compass](https://compass.uol/).<br /> 
 
 ## 📰 Credits
-* Ruby Koans [Challange](http://rubykoans.com/).<br />
+* Ruby Koans [challenge](http://rubykoans.com/).<br />
 * Ruby Documentation [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/).<br />
 * Git Documentation [Documentação Git](https://git-scm.com/doc).<br />
 * Rspec Documentation [Documentação Rspec](https://rspec.info/documentation/).<br />
